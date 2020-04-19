@@ -4,19 +4,23 @@
 }
 
 body {
-    background-color: #fff;
+    background-color: #eee;
+}
+.wrapper {
+    margin: 0 auto 0 60px;
+    width: 1000px;
+    background-color: red;
 }
 
 nav {
     width: 100%;
     height: 100px;
-    background-color: rgb(49, 62, 197);
+    background-color: #fff;
     line-height: 100px;
-margin: auto;
-
+    margin: auto;
 }
 ul {
-    margin-left: 60px;}
+    margin-left: 0px;}
 
 ul li {
     list-style: none;
